@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 #### Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongHongJin)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongHongJin)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongHongJin&hide=typescript,html)](https://github.com/anuraghazra/github-readme-stats)
