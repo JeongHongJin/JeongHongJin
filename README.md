@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 #### Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira Software&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/><br/>
 
-<br>
+#### Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongHongJin)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongHongJin)](https://github.com/anuraghazra/github-readme-stats)
